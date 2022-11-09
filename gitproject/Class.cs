@@ -20,5 +20,9 @@ namespace gitproject
 
 
         }
+        public void sample2()
+        {
+           return ;
+        }
     }
 }
