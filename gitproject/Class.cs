@@ -8,10 +8,17 @@ namespace gitproject
 {
     internal class Class
     {
+
         public void record()
         {
-            int record=0;   
+            int record = 0;
             return;
+        }
+        public void sample()
+        {
+            return;
+
+
         }
     }
 }
